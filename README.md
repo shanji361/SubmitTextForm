@@ -33,6 +33,16 @@ This app showcases input validation, error handling, and Material 3 styling.
     - Displays success/failure logs using `Log.d`.  
 
 ---
+## How to Run the App
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shanji361/SubmitTextForm.git
+   ```
+2. Open the project in Android Studio.
+
+3. Run the app on an emulator or a physical Android device.   
+---
 
 ## References
 - CS501 Course Materials — Lecture 3, Examples 27
