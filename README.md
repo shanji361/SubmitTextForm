@@ -35,7 +35,7 @@ This app showcases input validation, error handling, and Material 3 styling.
 ---
 
 ## References
-- Lecture 3 Example 27 
+- CS501 Course Materials — Lecture 3, Examples 27
 
 - [Android Studio Developers Documentation](https://developer.android.com/reference/kotlin/androidx/compose/ui/text/input/VisualTransformation)
 
